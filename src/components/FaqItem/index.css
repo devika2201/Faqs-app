@@ -1,0 +1,23 @@
+/* Write your code here. */
+.container {
+  width: 98%;
+  border: 1px solid #d7dae6;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  padding: 16px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.buttons {
+  outline: none;
+  background-color: transparent;
+  border: 0px;
+  text-align: end;
+}
